@@ -12,4 +12,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - et dolore magna aliqua
 
 
-![][icon1]
+![][icon1.png]
