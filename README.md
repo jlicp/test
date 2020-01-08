@@ -13,3 +13,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ![][icon1.png]
+![image info](./icon1.png)
